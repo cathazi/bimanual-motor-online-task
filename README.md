@@ -17,5 +17,3 @@ How to change conditions
 7. Save the changes and press ‘Sync’.
 
 Note, that you might have to clear your cached web content or browser cache to see the changes online. In order to clear browser cache, use Ctrl-F5, Ctrl-Shift-R or equivalent. You can also go to your browser settings and to privacy and security settings. For most browsers, you find a section for cookies and site data to clear. See further information for trouble shooting here: https://www.psychopy.org/online/psychoJSCodingDebugging.html
-
-![image](https://github.com/cathazi/bimanual-motor-online-task/assets/47032009/b2d9e296-11fd-43be-8984-f30b6813bcb8)
