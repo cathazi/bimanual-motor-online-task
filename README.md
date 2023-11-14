@@ -6,8 +6,8 @@ Schoenfeld MJ, Thom J, Williams J, Stagg CJ, Zich C (accepted) _Relationship bet
 
 <br />
 
-The raw data is available at https://data.mrc.ox.ac.uk/bimanual-motor-task and has DOI: 10.5287/ora-jne9aa1z0. <br />
-The code for the experimental paradigm is available at: https://github.com/cathazi/bimanual-motor-online-task.
+The raw data is available at: https://data.mrc.ox.ac.uk/bimanual-motor-task and has DOI: 10.5287/ora-jne9aa1z0. <br />
+The code for the analysis is available at: https://github.com/cathazi/bimanual-motor-online-task.
 
 <br />
 <br />
